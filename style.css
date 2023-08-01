@@ -1,0 +1,19 @@
+.title{
+    color: hsl(55, 100%, 60%); 
+    background-color: hsl(270, 40%, 38%);
+    margin: .3rem;
+  }
+  .goldtext{
+    color: hsl(55, 100%, 43%); 
+    margin: .3rem;
+  }
+  .goldtextdiv{
+    color: hsl(55, 100%, 43%); 
+    margin: .3rem;
+    width: 75%;
+    background-color: hsl(270, 40%, 38%);
+    border-radius: .5rem;
+  }
+  body{
+    background-color: rgb(87, 34, 113);
+  }
